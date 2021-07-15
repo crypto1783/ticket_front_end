@@ -1,4 +1,4 @@
-# Substrate Kitty Course Front-end
+# ticket v2
 
 ![kitties-screenshot01](docs/kitties-screenshot01.png)
 
