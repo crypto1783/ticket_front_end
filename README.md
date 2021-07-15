@@ -1,6 +1,6 @@
 # ticket v2
 
-![kitties-screenshot01](docs/kitties-screenshot01.png)
+
 
 This front-end is based on Substrate Front End Template and a kitty section is specially built to demonstrate using Polkadot-JS api to connect and interact with a Substrate node.
 
